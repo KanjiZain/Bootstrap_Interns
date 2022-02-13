@@ -1,0 +1,35 @@
+#logo {
+    margin-top: 20px;
+    margin-left: 25px;
+    height: 50px;
+}
+
+#head_text {
+    font-weight: bold;
+
+}
+
+.head_body {
+    text-align: left;
+}
+
+#btn {
+    width: 75%;
+    margin-left: 13%;
+}
+
+#fever {
+    padding: auto;
+    margin: auto;
+    display: block;
+}
+
+#btn_no {
+    padding-top: 2%;
+}
+
+#container2 {
+    text-align: justify;
+    font-size: 20px;
+}
+
